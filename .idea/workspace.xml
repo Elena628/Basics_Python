@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29266723-4427-4a20-81cf-461c506d6acc" name="Changes" comment="String algorithms">
+    <list default="true" id="29266723-4427-4a20-81cf-461c506d6acc" name="Changes" comment="Lists">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/Lists z2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Lists z2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731778816052</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lists">
+      <option name="closed" value="true" />
+      <created>1731844250642</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731844250642</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +143,7 @@
     <MESSAGE value="Practice of cycles" />
     <MESSAGE value="Correction z3" />
     <MESSAGE value="String algorithms" />
-    <option name="LAST_COMMIT_MESSAGE" value="String algorithms" />
+    <MESSAGE value="Lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lists" />
   </component>
 </project>
