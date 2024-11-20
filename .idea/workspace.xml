@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29266723-4427-4a20-81cf-461c506d6acc" name="Changes" comment="New version z2">
+    <list default="true" id="29266723-4427-4a20-81cf-461c506d6acc" name="Changes" comment="Methods for working with strings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods for working with strings/Methods for working with strings z1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Methods for working with strings/Methods for working with strings z1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
     "Python.String algorithms z1.executor": "Run",
     "Python.String algorithms z2.executor": "Run",
     "Python.String algorithms z3.executor": "Run",
+    "Python.Tuples, Dictionaries, Sets, Frozenset.executor": "Run",
     "Python.hello.executor": "Run",
     "Python.сколько слов.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -146,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732025870763</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Methods for working with strings">
+      <option name="closed" value="true" />
+      <created>1732041711991</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732041711991</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -156,6 +166,7 @@
     <MESSAGE value="String algorithms" />
     <MESSAGE value="Lists" />
     <MESSAGE value="New version z2" />
-    <option name="LAST_COMMIT_MESSAGE" value="New version z2" />
+    <MESSAGE value="Methods for working with strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Methods for working with strings" />
   </component>
 </project>
