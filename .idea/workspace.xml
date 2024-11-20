@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29266723-4427-4a20-81cf-461c506d6acc" name="Changes" comment="Methods for working with strings">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods for working with strings/Methods for working with strings z1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Methods for working with strings/Methods for working with strings z1.py" afterDir="false" />
-    </list>
+    <list default="true" id="29266723-4427-4a20-81cf-461c506d6acc" name="Changes" comment="Correction z1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732041711991</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Correction z1">
+      <option name="closed" value="true" />
+      <created>1732113199080</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732113199081</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -167,6 +172,7 @@
     <MESSAGE value="Lists" />
     <MESSAGE value="New version z2" />
     <MESSAGE value="Methods for working with strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Methods for working with strings" />
+    <MESSAGE value="Correction z1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction z1" />
   </component>
 </project>
