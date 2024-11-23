@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29266723-4427-4a20-81cf-461c506d6acc" name="Changes" comment="Correction z1" />
+    <list default="true" id="29266723-4427-4a20-81cf-461c506d6acc" name="Changes" comment="Tuples, Dictionaries, Sets, Frozenset">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,10 +43,15 @@
     "Python.Practice of cycles z2.executor": "Run",
     "Python.Practice of cycles z3.executor": "Run",
     "Python.Practice of cycles z4.executor": "Run",
+    "Python.Practice z1.executor": "Run",
+    "Python.Practice z2.executor": "Run",
+    "Python.Practice z3.executor": "Run",
+    "Python.Practice z4.executor": "Run",
     "Python.String algorithms z1.executor": "Run",
     "Python.String algorithms z2.executor": "Run",
     "Python.String algorithms z3.executor": "Run",
     "Python.Tuples, Dictionaries, Sets, Frozenset.executor": "Run",
+    "Python.aaa.executor": "Run",
     "Python.hello.executor": "Run",
     "Python.сколько слов.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -161,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732113199081</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Tuples, Dictionaries, Sets, Frozenset">
+      <option name="closed" value="true" />
+      <created>1732115898589</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732115898589</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,6 +188,7 @@
     <MESSAGE value="New version z2" />
     <MESSAGE value="Methods for working with strings" />
     <MESSAGE value="Correction z1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correction z1" />
+    <MESSAGE value="Tuples, Dictionaries, Sets, Frozenset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tuples, Dictionaries, Sets, Frozenset" />
   </component>
 </project>
